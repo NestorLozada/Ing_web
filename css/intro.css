@@ -1,12 +1,6 @@
-<<<<<<< HEAD
 body {
     background-color: gold;
     color: #999;
-=======
-*{
-    margin: 0;
-    padding: 0;
->>>>>>> main
 }
 header{
     background-color: purple;
@@ -17,10 +11,6 @@ header{
 .logo{
     margin: 0 0 10px 20px;
 }
-<<<<<<< HEAD
-
-=======
->>>>>>> main
 main {
     background-color: white;
     height: 600px;
