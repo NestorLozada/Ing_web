@@ -1,8 +1,9 @@
-body {
-    background-color: #000077;
-    color: #999;
+*{
+    margin: 0;
+    padding: 0;
 }
 header{
+    background-color: purple;
     height: 118px;
     border: 1px solid red;
 
@@ -10,13 +11,13 @@ header{
 .logo{
     margin: 0 0 10px 20px;
 }
-.logo img{}
-
 main {
+    background-color: white;
     height: 600px;
     border: 1px solid green;
 }
 footer{
+    background-color: goldenrod;
     height: 600px;
     border: 1px solid yellow;
 }
