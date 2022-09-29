@@ -1,0 +1,22 @@
+body {
+    background-color: #000077;
+    color: #999;
+}
+header{
+    height: 118px;
+    border: 1px solid red;
+
+}
+.logo{
+    margin: 0 0 10px 20px;
+}
+.logo img{}
+
+main {
+    height: 600px;
+    border: 1px solid green;
+}
+footer{
+    height: 600px;
+    border: 1px solid yellow;
+}
