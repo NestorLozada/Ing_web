@@ -1,5 +1,5 @@
 body {
-    background-color: #000077;
+    background-color: gold;
     color: #999;
 }
 header{
@@ -10,7 +10,6 @@ header{
 .logo{
     margin: 0 0 10px 20px;
 }
-.logo img{}
 
 main {
     height: 600px;
